@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_all"
+        android:icon="@drawable/ic_folder"
+        android:title="Tất cả" />
+    <item
+        android:id="@+id/nav_pho_bien"
+        android:title="Phổ biến"
+        android:icon="@drawable/ic_folder"
+        />
+    <item
+        android:id="@+id/nav_dang_chieu"
+        android:title="Phim đang chiếu"
+        android:icon="@drawable/ic_folder"/>
+    <item
+        android:id="@+id/nav_sap_chieu"
+        android:title="Phim sắp chiếu"
+        android:icon="@drawable/ic_folder"/>
+    <item
+        android:id="@+id/nav_top_xem_nhieu"
+        android:title="Top rating"
+        android:icon="@drawable/ic_folder"/>
+    <item
+        android:id="@+id/nav_top_the_loai"
+        android:title="Thể loại"
+        android:icon="@drawable/ic_folder"/>
+</menu>

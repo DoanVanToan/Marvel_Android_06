@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">MarvelAndroidApplication</string>
+    <string name="app_name" color="@color/colorgreen">MarvelAndroid</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
 </resources>
